@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/2b1b2cf2-efb0-4009-aa5a-f05e0bce3d61)
-
 # Aprendiendo AWS 🚀
 
 Bienvenido al repositorio **Aprendiendo AWS**. Este documento reúne los componentes clave de AWS para que aprendas y domines la plataforma de forma práctica y, por qué no, con un toque de humor.
+
+![image](https://github.com/user-attachments/assets/2b1b2cf2-efb0-4009-aa5a-f05e0bce3d61)
 
 ## Índice
 
@@ -63,16 +63,4 @@ Servicio sin servidor para ejecutar código en respuesta a eventos. Escala autom
 
 ---
 
-## Posibles Mejoras
-
-- **Ejemplos prácticos:** Añadir fragmentos de código o comandos de AWS CLI para cada servicio.
-- **Diagramas y visuales:** Incluir imágenes o diagramas que ilustren la arquitectura y relaciones entre servicios.
-- **Enlaces a documentación:** Agregar hipervínculos a la documentación oficial de AWS para profundizar en cada componente.
-- **Tutoriales paso a paso:** Incorporar guías que expliquen cómo configurar y usar cada servicio.
-- **Consejos y mejores prácticas:** Incluir secciones con tips y recomendaciones basadas en experiencia.
-- **Actualización continua:** Revisar y actualizar el contenido conforme AWS evoluciona.
-- **Consistencia visual:** Verificar que el uso de emojis, formatos y estilos sea coherente en todo el documento.
-
----
-
-¡A darle caña y a aprender AWS sin vueltas ni rodeos! 😎💡
+Coming Soon...
